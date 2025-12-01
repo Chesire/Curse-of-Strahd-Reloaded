@@ -78,7 +78,7 @@ If the players allow Bianca to finish, her song concludes:
 
 Whether the players interrupt her or allow her to finish, Bianca greets them with some surprise and warmth and asks whether they’re the owners of the wagon beside the tower.
 
-![[Bianca Stoyanovich.png]]
+![Bianca Stoyanovich](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Bianca%20Stoyanovich.png)
 <span class="credit">"Bianca Stoyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Bianca Stoyanovich**
@@ -397,9 +397,9 @@ The medallion is the *Holy Symbol of Ravenkind*. The youth is Ilya Krezkov, a th
 
 Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s Bedroom|Arc K - The Fallen Abbey]] recognize her as the woman in the picture.
 
-![[Ilya Krezkov.png]]
+![Ilya Krezkov](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Ilya%20Krezkov.png)
 
-![[Zuleika Toranscu.png]]
+![Zuleika Toranscu](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Zuleika%20Toranscu.png)
 
 <span class="credit">"Ilya Krezkov" and "Zuleika Toranescu" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 

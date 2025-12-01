@@ -217,7 +217,7 @@ In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be l
 > [!abstract]+ **The Flesh Golem’s Loyalty**
 > If the players gave Vasilka’s flower garland to the **flesh golem** in [[Arc K - The Fallen Abbey]], it joins them in battle against the Abbot when the Abbot enters his second phase.
 
-![[Ithuriel.png]]
+![Ithuriel](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Ithuriel.png)
 <span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
@@ -352,7 +352,7 @@ At will: detect evil and good<br>
 <p><strong><em>Frightful Presence (1/day).</em></strong> In response to assuming his second form, Ithuriel forces each creature of his choice within 120 feet that is aware of him to make a DC 18 Wisdom saving throw. On a failure, a creature is frightened of Ithuriel until the end of its next turn.</p>
 </div>
 
-![[Ithuriel2.png]]
+![Ithuriel 2](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Ithuriel2.png)
 
 <span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -756,7 +756,7 @@ Kiril then attacks.
 </div>
 <br>
 
-![[The Black Terror.png]]
+![The Black Terror](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/The%20Black%20Terror.png)
 <span class="credit">"Kiril, Mutant Lycan" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
@@ -1050,7 +1050,7 @@ When a player first places Argynvost’s skull on an alcove in the mausoleum, re
 <p>Claws emerge first, then a serpentine torso half as long as the manor is tall, curving into a long, elegant neck crowned by a noble, horned head. Mighty wings extend from strong, stalwart shoulders, their ghostly scales shimmering with an ethereal silver light as they fill the sky above.</p>
 </div>
 
-![[Argynvost_transparent.png]]
+![Argynvost](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Argynvost_transparent.png)
 
 <span class="credit">"Argynvost's Ghost" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 

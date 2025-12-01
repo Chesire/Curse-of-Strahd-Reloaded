@@ -79,7 +79,7 @@ A player who checks their pocket finds a small, scribbled note. (A player who fa
 <p>—A</p>
 </div>
 
-![[Spy Note.png]]
+![Spy Note](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Spy%20Note.png)
 <span class="credit">"Arrigal's Note" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 
@@ -293,7 +293,7 @@ The players recognize the man as Rahadin, Strahd’s chamberlain. The woman is A
 >
 > ***Relationships.*** Rahadin is the chamberlain of Castle Ravenloft, the adopted brother of Strahd von Zarovich, the cousin of the dusk elf Kasimir Velikov, the son of the late dusk elf prince Erevan Löwenhart (the original owner of the blade that would later become the *Sunsword*), and the killer of the dusk elf women (excepting the **banshee** Patrina Velikovna, who was killed by her brother Kasimir).
 
-![[Anastrasyatransparent.png]]
+![Anastrasya](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Anastrasyatransparent.png)
 <span class="credit">"Anastrasya" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Anastrasya greets the players warmly by name (“You must be . . . “), then welcomes them to Castle Ravenloft. As she does, she expresses her cheerful delight at finally having an opportunity to meet them in person and shares that she’s “heard *so* much about them."
@@ -329,10 +329,10 @@ In addition, revise this area’s description as follows as Rahadin leads the pl
 
 The players recognize the man as Escher, Strahd’s **vampire spawn** consort, who they previously met in [[Act I - Into the Mists/Arc C - Into the Valley]]. The woman is Sasha Ivliskova, a **vampire spawn** and Strahd’s eldest vampiric bride.
 
-![[Escher.png]]
+![Escher](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Escher.png)
 <span class="credit">"Escher" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-![[Sasha Ivliskova.png]]
+![Sasha Ivliskova](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Sasha%20Ivliskova.png)
 <span class="credit">"Sasha Ivliskova" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Escher**
@@ -416,7 +416,7 @@ As introductions draw to a close, Rahadin moves into <span class="citation">K9. 
 
 The man is a middle-aged Barovian villager named Anton Konstantinovich. He has no tongue and cannot speak. 
 
-![[Anton.png]]
+![Anton](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Anton.png)
 <span class="credit">"Anton" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Unless interrupted, Anton moves first to offer the players wine from the purple pitcher. (If the players ask to have their drinks poured from the red pitcher, the man silently shakes his head and again proffers the purple pitcher. The liquid in the red pitcher is blood, which the vampires drink exclusively.)
@@ -469,7 +469,7 @@ In either case, continue:
 <p>"Good evening," Strahd von Zarovich says, his lips curling into a cordial smile.</p>
 </div>
 
-![[Strahd at Dinner.png]]
+![Strahd at Dinner](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Strahd%20at%20Dinner.png)
 <span class="credit">"Strahd at Dinner" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Each vampire spawn immediately falls silent and turns to offer Strahd a deep curtsy or bow. As she curtsies, Anastrasya bows her head and closes her eyes, murmuring, “Good evening, my lord." She adds, her eyes flickering toward Volenta, “I hope the night’s revelry did not disturb your work."
@@ -973,7 +973,7 @@ A player or allied NPC who falls unconscious in the lounge, guest room, or close
 
 Varushka's Nightmare exists across five near-identical copies of the Ravenloft guest suite, layered vertically atop one another. Within the Nightmare, the trapdoor in <span class="citation">K51. Closet (p. 70)</span> always leads to the trapdoor in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. However, the door to the Closet on the fifth and highest level of the Nightmare instead leads to a copy of Castle Ravenloft on the day of Sergei's wedding, via a copy of <span class="citation">K23. Servants' Entrance (p. 59)</span>, as described in [[#O8f. The Bloody Keep]] below.
 
-![[Nightmare Map.png]]
+![Nightmare Map](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Nightmare%20Map.png)
 
 > [!info]+ **Player Resources in the Nightmare**
 > Upon entering the Nightmare, the players retain their current hit points, spell slots, and equipment from the physical world. However, any hit points, hit dice, spell slots, consumable magic items, or magical item charges they spend within the Nightmare aren't spent in the physical world, and are returned when the players awaken.
@@ -1038,7 +1038,7 @@ Shortly after the players emerge into <span class="citation">K47. Portrait of St
 <p>A silhouette looms against the stone-brick wall obstructing the descending stair—and then emerges from the stonework like a ghost, revealing a cloaked, broad-shouldered man with long, blond hair, a strong, slightly crooked nose, and a thick, well-trimmed beard. He holds a fiery torch in one hand and a gleaming steel sword in the other, and a black-feathered raven sits perched atop his shoulder.</p>
 </div>
 
-![[IsmarkGreat_transparent.png]]
+![Ismark the Great](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/IsmarkGreat_transparent.png)
 
 <span class="credit">"Ismark the Great" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -1318,7 +1318,7 @@ Any player who turns around or is already facing her beholds Varushka’s presen
 <p>She stretches out her hands toward you and whispers hoarsely, “<em>No one leaves</em>." In the distance, the guest-room clock begins to chime once more—and a familiar numb sensation begins to pierce through the flesh of your necks.</p>
 </div>
 
-![[Varushka.png]]
+![Varushka](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Varushka.png)
 <span class="credit">"Varushka" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 If the players previously obtained Katarina’s necklace in [[#O3b. The Rider’s Guidance]], a player who inspects Varushka’s necklace recognizes it as the matching half of the pair.

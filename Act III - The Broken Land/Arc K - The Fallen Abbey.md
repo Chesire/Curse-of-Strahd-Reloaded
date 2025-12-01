@@ -79,7 +79,7 @@ When the players enter the cottage’s front door, read:
 
 Upon entering, Baron Krezkov—who insists that the players call him Dmitri while guests in his home—hangs his coat on one of the pegs on the wall and removes his boots. He then calls out to his wife, Baroness Anna Krezkova, who exits from the kitchen to warmly greet the players.
 
-![[Anna_and_Dmitri_Krezkov_transparent.png]]
+![Anna and Dmitri Krezkov](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Anna_and_Dmitri_Krezkov_transparent.png)
 <span class="credit">"Anna and Dmitri Krezkov" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Baroness Anna Krezkova**
@@ -176,7 +176,7 @@ If the players enter the graveyard during the day, add:
 <p>A young, dark-haired girl sits atop a boulder nearby, her hands hugging her knees to her chest as she stares silently at a small grave. She wears a thin tunic and no shoes, her small body so still that she seems almost to be a statue.</p>
 </div>
 
-![[Kala Krezkova.png]]
+![Kala Krezkova](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Kala%20Krezkova.png)
 <span class="credit">"Kala Krezkova" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The girl is Kala Krezkova. She doesn’t immediately respond if the players speak to her. If the players approach, however, she abruptly asks them: "Have you ever had a bad dream you couldn't wake up from?" 
@@ -274,7 +274,7 @@ A player who inspects the map observes a small piece of parchment tucked away be
 
 The woman is Zuleika Toranescu, Dmitri’s elder sister. A player with a passive Wisdom (Perception) score of 13 or higher notices that she bears a striking resemblance to Burgomaster Dmitri Krezkov.
 
-![[Sketch of Zuleika.png]]
+![Sketch of Zuleika](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Sketch%20of%20Zuleika.png)
 <span class="credit">"Sketch of Zuleika" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 If shown the picture, Dmitri’s face pales, and he asks the player where they found it. If told that the player found it in Ilya’s room, he insists that it is impossible. “That is a drawing of my older sister, Zuleika," he says hoarsely, “and she has not been seen in Krezk in nearly thirteen years." (If asked why Zuleika left, Dmitri shares only that she had a fight with him and their ailing father about personal family matters, and that he has neither seen nor heard from her since she departed.)
@@ -415,7 +415,7 @@ The Abbot greets the players with warmth, welcoming them to the Abbey of Saint M
 * **If Ezmerelda has not yet returned**, the Abbot informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return two days after the full moon. (The Abbot doesn’t know where Ezmerelda is, and notes gently that her business is her own. “She is a free spirit, that one," he observes thoughtfully.)
 * **If Ezmerelda has returned**, the Abbot offers to show the players to her room. However, he first asks the players to assist him with a particular task. (See **Vasilka’s Lesson** below.)
 
-![[The Abbot.png]]
+![The Abbot](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/The%20Abbot.png)
 <span class="credit">"The Abbot" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### The Abbot’s Knowledge
@@ -457,7 +457,7 @@ Although the Abbot has much experience in love of the divine, he admits he is wh
 
 If the players accept, the Abbot asks Vasilka to introduce herself, which she does with a small, if clumsy, curtsey. The Abbot defers almost entirely to the players for the duration of this brief “lesson," though he steps in to discourage unsavory topics if necessary.
 
-![[Vasilka.png]]
+![Vasilka](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Vasilka.png)
 <span class="credit">"Vasilka" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Vasilka, the Flesh Golem**
@@ -607,7 +607,7 @@ This is Ezmerelda d’Avenir. Her statistics are given below.
     <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>zephyr strike</em>.
 </div>
 
-![[Ez_trans.png]]
+![Ez](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Ez_trans.png)
 <span class="credit">"Ezmerelda d'Avenir" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 The weapons on the floor are recognizable as a handaxe, a shortsword, and a rapier. The uncovered blade of the handaxe glints strangely under the light. (A player who casts *detect magic* observes that the rapier and handaxe are magical, as is Ezmerelda’s leather armor.)
 

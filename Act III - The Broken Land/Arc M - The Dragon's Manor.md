@@ -81,7 +81,7 @@ This is the **revenant** Sir Godfrey Gwilym, who is as described in <span class=
 <p>"Welcome, travelers," he rasps. “I must ask that you forgive my rudeness. I am ill-disposed to greet you properly."</p>
 </div>
 
-![[Godfrey_trans.png]]
+![Godfrey](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Godfrey_trans.png)
 <span class="credit">"Sir Godfrey Gwilym" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!info]+ **Godfrey’s Bindings**
@@ -412,7 +412,7 @@ If a player unstops the decanter to reveal Zorya’s hiding place, she bursts fo
 <p>A fire of silver flames erupts in the dead hearth and assumes a draconic form. It hisses and crackles - and then yawns, stretches, and unfurls its smoky wings as a familiar sound like chiming crystal pours forth from its tiny throat.</p>
 </div>
 
-![[Zorya.png]]
+![Zorya](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Zorya.png)
 <span class="credit">"Zorya" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 If the players don’t immediately respond, Zorya chirps happily and flutters up into the air before attempting to settle on the shoulder of whichever player most befriended her during the game. (Though made of fire, Zorya’s body is cold to the touch, not hot.) 
@@ -698,7 +698,7 @@ Revise Argynvost’s journal page to read as follows:
 </div>
 <br>
 
-![[Argynvost_Journal_RRL.jpg]]
+![Argynvost Journal](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Argynvost_Journal_RRL.jpg)
 <span class="credit">"Argynvost's Journal" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 If the players inspect the slashed picture, revise the first sentence of its description to read as follows:
@@ -753,7 +753,7 @@ The scroll is a letter and reads as follows:
 </div>
 <br>
 
-![[Andral_Scroll_RRL.jpg]]
+![Andral Scroll](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Andral_Scroll_RRL.jpg)
 <span class="credit">"Saint Andral's Letter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 #### Argynvost’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q42.</em></span>
@@ -898,7 +898,7 @@ The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the stai
 <p>The gauntleted hand tightens its grip around the greatsword’s hilt, and the knight’s deep, rasping voice pierces the silence. "Who goes there?" it commands. “Be warned—if you are thieves or assassins, know that you shall soon join your quarries in death."</p>
 </div>
 
-![[Vladimir Horngaard.png]]
+![Vladimir Horngaard](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Vladimir%20Horngaard.png)
 <span class="credit">"Commander Vladimir Horngaard" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Vladimir Horngaard**

@@ -47,7 +47,7 @@ When the players meet Urwin in the Blue Water Inn's kitchen after accepting his 
 <p>Her right hand lifts up to her head, fingers idly twirling the bright blue streak that runs through her hair. She flashes you a grin and holds out the other hand in greeting, her fingers twitching with restless energy.</p>
 </div>
 
-![[Muriel Vinshaw 1.png]]
+![Muriel Vinshaw](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Muriel%20Vinshaw%201.png)
 <span class="credit">"Muriel Vinshaw" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Muriel Vinshaw**
@@ -937,7 +937,7 @@ When she does, read:
 <p>"Greetings, Muriel Vinshaw," the spirit rumbles. "I see you have brought new companions this time."</p>
 </div>
 
-![[Kavan.png]]
+![Kavan](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Kavan.png)
 <span class="credit">"Kavan" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 Muriel introduces the spirit as the **ghost** of Kavan, an ancestor of the Mountain Folk, and introduces the players by name.
 
@@ -1033,7 +1033,7 @@ Beucephalus is as described in <span class="citation">Crypt 39 (p. 93)</span>. I
 
 The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as described in **Strahd’s Animated Armor**, p. 227). It is currently disassembled and inactive, though it attacks with its ***shocking bolt*** action if the players disturb it.
 
-![[Strahd and Beucephalus.png]]
+![Strahd and Beucephalus](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Strahd%20and%20Beucephalus.png)
 <span class="credit">"Strahd and Beucephalus" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Greeting Strahd
@@ -1122,7 +1122,7 @@ A player who succeeds on a DC 14 Wisdom (Perception) check notices that the obje
 ## J5b. Ludmilla's Challenge
 Shortly after the players enter the circle, any players still looking at the circle of chanting druids see Ludmilla turn, notice them, and vanish in a curl of mist. She then reappears before the players in similar fashion, standing just thirty feet away.
 
-![[Ludmilla.png]]
+![Ludmilla](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Ludmilla.png)
 <span class="credit">"Ludmilla Vilisevic" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Ludmilla Vilisevic**
@@ -1196,7 +1196,7 @@ The lightning strike signals the true beginning of the druids’ ritual. Once th
 Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows*** (see below).
 <br>
 
-![[Yester Hill Layout (Presentation) (1).png]]
+![Yester Hill Layout](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Yester%20Hill%20Layout%20%28Presentation%29%20%281%29.png)
 <br>
 
 > [!info]+ **The Size of the Hill**
@@ -1461,7 +1461,7 @@ When the players all either return from the Whispering Wall or decline to do so,
 > 
 > The wielder can spend all 3 charges as an action at any time of day to cast _enervation_ (save DC 15). If they do, the crest doesn’t regain charges for the next three dawns.
 
-![[Twilight_Crest.png]]
+![Twilight Crest](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Twilight_Crest.png)
 
 <span class="credit">"Twilight Crest" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -1552,7 +1552,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 >
 >The agent departs after completing the requested task.
 
-![[Keepers_Whistle.png]]
+![Keepers Whistle](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Keepers_Whistle.png)
 
 <span class="credit">"Keeper's Whistle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 

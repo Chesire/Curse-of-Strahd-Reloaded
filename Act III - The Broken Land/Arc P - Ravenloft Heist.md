@@ -18,7 +18,7 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > > [!info]+ **What Doru Knows**
 > > If asked, Doru can provide a rough boxes-and-lines map of the following areas, with additional commentary:
 > > 
-> > ![[Dorus_Notes.png]]
+> > ![Dorus Notes](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Dorus_Notes.png)
 > > 
 > > <span class="credit">"Doru's Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > >
@@ -39,7 +39,7 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > > [!info]+ **What Van Richten Knows**
 > > If asked, Van Richten can provide a rough boxes-and-lines map of the following areas, with additional commentary:
 > > 
-> > ![[Dorus_Notes_Plus_VR.png]]
+> > ![Dorus Notes Plus Van Richten](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Dorus_Notes_Plus_VR.png)
 > > 
 > > <span class="credit">"Van Richten's Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > >
@@ -164,7 +164,7 @@ The players might use any of the following methods to gain access to the inner k
 >
 > Once a wight is within melee range of an intruder, it uses its ***multiattack*** to attack with its ***longsword*** and ***life drain*** each round.
 
-![[Wight Patrols.png]]
+![Wight Patrols](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Wight%20Patrols.png)
 The players might use any of the following methods to distract the **wights** patrolling the area above the drawbridge:
 
 * Magical illusions (e.g., *major image*), obfuscation (e.g., *fog cloud*), or invisibility.
@@ -425,7 +425,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 </div>
 <br>
 
-![[Ludmilla_Phase_2transparent.png]]
+![Ludmilla Phase 2](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Ludmilla_Phase_2transparent.png)
 
 <span class="credit">"Ludmilla in her second phase" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -576,7 +576,7 @@ This area is largely as described in <span class="citation">K30. King’s Accoun
 > [!lore]+ **Lief Lipsiege**
 > When Khazan first became Strahd’s arcane advisor four centuries ago, Strahd already had the additional services of Lief Lipsiege, an elderly master accountant wholly dedicated to his work. Unwilling to lose Lief’s services when he died, Strahd—after promising Lief his salary would continue to fund his siblings and their descendants—worked with Khazan to transform Lief into a **wight**, thereby allowing Lief to continue his life’s work even into undeath. Since then, Lief has obediently served as Strahd’s accountant, though his mind has grown scattered and his memory full of holes over the many years since his death.
 
-![[Leif.png]]
+![Leif](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Leif.png)
 <span class="credit">"Lief Lipsiege" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Lief is not chained to his wooden desk. However, he won’t leave the room voluntarily under any circumstances. 
@@ -811,7 +811,7 @@ In addition, the closet contains only three capes, rather than twenty-eight.
 
 This area is largely as described in <span class="citation">K42. King’s Bedchamber (p. 68)</span>. However, remove the word “dainty" from the description of Gertruda’s slipper in this area’s description.
 
-![[Gertruda.png]]
+![Gertruda](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Gertruda.png)
 <span class="credit">"Gertruda" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Gertruda**
@@ -1013,7 +1013,7 @@ As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s w
 <p><strong><em>Vampiric Command.</em></strong> When a creature moves within 10 feet of Anastrasya or damages her while within 10 feet of her, she can use her reaction to force the creature to make a <span class="highlight">DC 14 Wisdom saving throw</span>. On a failed save, Anastrasya can command the creature as if she had cast the <em>command</em> spell, without expending a spell slot or using any components.</p>
 </div>
 
-![[Ana_Phase_2.png]]
+![Ana Phase 2](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Ana_Phase_2.png)
 <span class="credit">"Anastrasya in her second form" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Hall of Heroes
@@ -1958,7 +1958,7 @@ At the end of each turn the character continues to hold the staff, they can make
 
 The player can release the staff at any time. If they release the staff while the arcane surge is active, the staff vanishes, and the runes cannot be activated again for one year.
 
-![[Khazan-Staff.png]]
+![Khazan Staff](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Khazan-Staff.png)
 <span class="credit">"Khazan's Staff" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!item]+ **Khazan's Staff**
