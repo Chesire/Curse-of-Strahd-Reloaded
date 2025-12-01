@@ -85,7 +85,7 @@ A few moments after the players notice the young woman, Nikolai Wachter stumbles
 
 [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] then enters the parlor and apologizes to the players for the disturbance. She then introduces herself as Lady Fiona Wachter and formally welcomes the players to Wachterhaus, thanking them for accepting her invitation. She invites the players to seat themselves upon the couches, if they haven’t already, and to make themselves comfortable.
 
-![[Lady Fiona Wachter.png]]
+![Lady Fiona Wachter](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Lady%20Fiona%20Wachter.png)
 <span class="credit">"Lady Fiona Wachter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Haliq arrives shortly thereafter bearing a tray of wine glasses for those that requested them. He also offers a glass to Lady Wachter, who declines and instead requests a glass of brandy. At Lady Wachter’s request, Haliq informs the group that dinner will be served in a quarter-hour. Lady Wachter thanks him, and he bows and departs.
@@ -343,7 +343,7 @@ If the players ask the truth behind the Ireena-shaped doll, Izek snarls that the
 
 If Ireena has accompanied the players to the lake, Izek instructs her to stand aside while he "teaches these worms some manners." If defied, he snarls in rage.
 
-![[Lake-Zarovich_Izek-Encounter_4k_NoGrid_40x30_102PPI_Gloom_Fog.jpg]]
+![Lake Zarovich - Izek Encounter](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Lake-Zarovich_Izek-Encounter_4k_NoGrid_40x30_102PPI_Gloom_Fog.jpg)
 
 <span class="credit">"Lake Zarovich" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/29a5db8e9c/">here!</a></span>
 

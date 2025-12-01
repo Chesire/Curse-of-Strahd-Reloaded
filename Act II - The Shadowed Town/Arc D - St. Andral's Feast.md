@@ -97,7 +97,7 @@ When the players first enter this area, read:
 
 The young man is Milivoj, who is as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>. The priest is Father Lucian Petrovich. The boy is Yeska.
 
-![[Father Lucian Petrovich.png]]
+![Father Lucian Petrovich](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Father%20Lucian%20Petrovich.png)
 <span class="credit">"Father Lucian Petrovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 When the players first meet [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]], he greets them warmly, recognizing them as newcomers to Vallaki, welcoming them to St. Andral's Church, and asking if they have come seeking fellowship or to pray to the Morninglord.
@@ -168,7 +168,7 @@ If the players choose to interview Yeska, [[Non-Player Characters#Father Lucian 
 
 If one of the players asks Yeska whether he has told anyone else about the bones, he truthfully denies doing so. However, if the players ask whether anyone might have overheard his conversation with Father Lucian, Yeska shares that Milivoj was also in the church at that time. (Yeska, though alarmed by the direction of the conversation, can also be persuaded to share that Milivoj's tales of Strahd potentially attacking the church encouraged him to ask Father Lucian about the church's protection in the first place.)
 
-![[Yeska.png]]
+![Yeska](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Yeska.png)
 <span class="credit">"Yeska" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 # D2. Milivoj’s House
 Milivoj’s house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral’s Church. 
@@ -302,7 +302,7 @@ Opening the compartment without disabling the wire or unsuccessfully attempting 
 > If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation">N8. Town Square (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
 ## D4c. Volenta's Trap
 If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
-![[Volenta Popofsky.png]]
+![Volenta Popofsky](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Volenta%20Popofsky.png)
 <span class="credit">"Volenta Popofsky" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Volenta Popofsky**

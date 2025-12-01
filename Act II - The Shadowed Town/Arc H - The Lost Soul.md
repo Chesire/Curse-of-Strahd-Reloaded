@@ -66,7 +66,7 @@ If the players describe Erasmus' visitation to Victor, Victor glances at the *sp
 A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
 ### What Victor Knows
 If the players express an interest in assisting him, [[Non-Player Characters#Victor Vallakovich|Victor]] first introduces them to Stella’s spirit through her reflection in the *spirit mirror.* Stella greets them with a shy wave, but cannot be heard. (Victor explains that her soul is trapped in the Ethereal Plane, and though the mirror reflects shapes from the other plane, it does not transmit sound.) 
-![[Stella Wachter.png]]
+![Stella Wachter](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Stella%20Wachter.png)
 <span class="credit">"Stella Wachter's Ghost" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Victor then shares the following information:
@@ -382,7 +382,7 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 >
 > Morgantha’s task is simple. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable.
 > 
->![[Soul Leech.png]]
+>![Soul Leech](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Soul%20Leech.png)
 ><span class="credit">"Soul Leech" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 >
 >The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
@@ -417,7 +417,7 @@ The stone compartment also contains a *charm of mass heroism*, resembling a gold
 
 Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
 
-![[The Three Hags.png]]
+![The Three Hags](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/The%20Three%20Hags.png)
 <span class="credit">"The Three Hags" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 ### Distracting Morgantha
 <span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
@@ -505,7 +505,7 @@ If the players challenge Morgantha's predation of Franz and the children, she sc
 
 Morgantha declines to explain her statement further, noting only that "darker powers" than Strahd von Zarovich command the Mists that encircle the valley—and that she may be willing to share more information if the players return the children. (If the players then do so, Morgantha shares the three secrets noted in **Morgantha's Plea** below.)
 
-![[The Bonegrinder Coven.png]]
+![The Bonegrinder Coven](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/The%20Bonegrinder%20Coven.png)
 <span class="credit">"The Bonegrinder Coven" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Battle with the Hags
@@ -592,11 +592,11 @@ The hags fight in self-defense, or if the players make clear that they will not 
 </div>
 
 
-![[Bella.png]]
+![Bella](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Bella.png)
 
-![[Offalia.png]]
+![Offalia](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Offalia.png)
 
-![[Morgantha.png]]
+![Morgantha](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Morgantha.png)
 <span class="credit">"The Nightmare Three" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
@@ -708,7 +708,7 @@ Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair act
 <p>The hags release a bloodcurdling scream of rage, their voices melding into a single, resonant note of high-pitched fury.</p>
 </div>
 
-![[Victor's Counterspell.jpg]]
+![Victor's Counterspell](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Victor%27s%20Counterspell.jpg)
 <span class="credit">"Victor's Counterspell" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Immediately following Victor's _counterspell_, Morgantha calls for a parley, promising to reveal three pieces of secret knowledge to the players in exchange for the coven's lives. 
@@ -822,7 +822,7 @@ Though the players cannot find healing magic capable of curing cackle fever in V
 If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Arc I - The Walls of Krezk]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
 # H8. The Ritual
 Once the players have obtained a *heartstone*, they will need a location at which to perform the *etherealness* and restoration rituals, which must take place on the night of the full moon. 
-![[Heartstone.png]]
+![Heartstone](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Heartstone.png)
 <span class="credit">"Heartstone" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 [[Non-Player Characters#Victor Vallakovich|Victor]] informs the players that he will need access to a leyline—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of Wachterhaus was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
@@ -836,7 +836,7 @@ The inside of the chamber is largely as described in **N4t. Cult Headquarters**.
 <p>Thousands of gouges and scratches line the stone walls around the circle, many stained with faded blood centuries old. The far wall of the chamber bears a three-foot tall carving of a dagger with a curved hilt, with the phrase <em>In Silence, Death</em> carved in twelve-inch letters immediately below it. As you take in the scratches along the walls and ceiling, you notice that most form a particular word, endlessly repeated in the ancient stonework: <em>Traitor.</em></p>
 </div>
 
-![[Leo's Dagger.png]]
+![Leo's Dagger](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Leo%27s%20Dagger.png)
 <span class="credit">"Leo's Dagger" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Leo Dilisnya used his vampiric claws to carve these words and images into the stone. The phrase “In Silence, Death” is the motto of the Ba’al Verzi, the secret assassins’ guild to which Leo belonged.
@@ -922,7 +922,7 @@ If one of the players moves to attack, Erasmus shouts, “Wait! I don’t mean t
 <p>He wears short pants, a loose shirt, and a vest, though his body becomes wisps of curling fog not far below his knees. His eyes glitter with mirth, and an elfin smile plays across his face as his unkempt hair drifts lazily amidst the gloom. When he speaks, his voice is cheery and light, and his fingers twitch with excitement. “Stella! You brought your friends!”</p>
 </div>
 
-![[Erasmus.png]]
+![Erasmus](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Erasmus.png)
 
 <span class="credit">"Erasmus van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -983,7 +983,7 @@ At the end of the first round of combat with the specters, any surviving specter
 <p>"I am Leo Dilisnya," the figure rasps. "And we have come for the blood that is owed." One of its skeletal hands tightens its grasp around a lump upon its chest—an old, leather-bound tome, its cover a deep, crimson red inset with platinum filigree. The figure then reaches out another skeletal hand—a single clawed finger pointing directly at Stella Wachter.</p>
 </div>
 
-![[Gallows Speaker.png]]
+![Gallows Speaker](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Gallows%20Speaker.png)
 <span class="credit">"Gallows Speaker" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The **gallows speaker** is an agglomeration of Leo Dilisnya’s spirit with the spirits of the dozens of castle guards that Strahd slaughtered on the day of Sergei’s wedding. The book held to its chest is the *Tome of Strahd*, which Leo stole from Wachterhaus after killing Lady Wachter's parents during their seance.
@@ -1189,7 +1189,7 @@ If the players follow, they can observe as Victor and Stella meet each other at 
 * When Lady Wachter finally releases her, Stella steps forward toward the players—and stumbles, her foot nearly falling out from under her. Victor and Lady Wachter swiftly move to catch her. “You’ve been out of your body for too long,” Victor cautions her. “You need to get used to having legs again.”
 * Stella nods, then looks around at the players, her eyes shining with gratitude. “Thank you,” she says. “It was so quiet in there—so *cold.* But because of you, I can *feel* again. I can hear the world again. Thank you—from the bottom of my heart, *thank you.*” 
 
-![[Stella_Alive.png]]
+![Stella Alive](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Stella_Alive.png)
 <span class="credit">"Stella Wachter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of revealing*, as well as a standing invitation to seek her aid or counsel whenever they find themselves in Vallaki, so long as their efforts do not risk harm to the town or its people.

@@ -237,7 +237,7 @@ This area is largely as described in <span class="citation">S4. Pool and Shrine 
 The flowers are *wolfsbane*. The young man is the Abbot of the Abbey of St. Markovia, who is largely as described in <span class="citation">S13. Main Hall (p. 150)</span> and <span class="citation">Appendix D (p. 225)</span>.
 
 
-![[The Abbot.png]]
+![The Abbot](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/The%20Abbot.png)
 <span class="credit">"The Abbot" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Should the players approach or address him, the Abbot, without looking up from the flower, says: "A ward against evil, and yet a deadly poison. Is it not strange that a mere flower can hold such duality within it?"

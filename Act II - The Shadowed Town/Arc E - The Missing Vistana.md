@@ -88,7 +88,7 @@ If the players ask Blinsky about Piccolo, he can inform them that he received th
 
 As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
 
-![[Jamboree_Poster_Distressed.png]]
+![Jamboree Poster](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Jamboree_Poster_Distressed.png)
 
 <span class="credit">"Wolf's Head Jamboree" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -191,7 +191,7 @@ Kasimir’s hovel is largely as described in <span class="citation">N9a. Kasimir
 
 The players can find Kasimir sitting on the green rug facing the fire, meditating. He is as described in <span class="citation">Kasimir Velikov (p. 232)</span>, but has recently sustained a black eye and several cuts across his cheek.
 
-![[Kasimir Velikov 1.png]]
+![Kasimir Velikov](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Kasimir%20Velikov%201.png)
 <span class="credit">"Kasimir Velikov" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 
@@ -224,7 +224,7 @@ His right hand and forearm are a pale bluish-white, with much of the skin puffy 
 
 Kasimir welcomes the players warmly, though obviously with some discomfort. If the players ask for the signet ring, he produces it from his cloak and wishes them luck, noting that he could not identify it himself—odd, he thinks, given his knowledge of pre-Barovian heraldry and his long history in the valley. (He isn’t sure whether the Baron’s library might hold more information, but believes it a lead worth pursuing.)
 
-![[Khazan's Ring.png]]
+![Khazan's Ring](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Khazan%27s%20Ring.png)
 <span class="credit">"Khazan's Ring" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The symbol on the signet ring resembles the connected series of lines depicted on <span class="citation">V2. Tower Door (p. 169)</span>, but rotated counterclockwise such that the shape is vertically symmetrical. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines. 
@@ -305,7 +305,7 @@ If the players gain access to <span class="citation">N3l. Library (p. 107)</span
 In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of Izek Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while Ireena’s cause of death is marked as *Unknown (presumed devoured by wolves).*
 
 Shortly after the players discover these records, however, they are interrupted by the arrival of Victor Vallakovich, who has come to the library in search of a particular book: *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen. 
-![[Victor Vallakovich.png]]
+![Victor Vallakovich](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Victor%20Vallakovich.png)
 <span class="credit">"Victor Vallakovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Victor Vallakovich**
@@ -559,7 +559,7 @@ The tower door is largely as described in <span class="citation">V2. Tower Door 
 </div>
 
 The seal appears to be blank. However, if a character approaches within 5 feet of the door, eight fist-sized buttons grow from its waxlike surface in the same positions as the stick figures depicted in <span class="citation">V2. Tower Door (p. 169)</span>. If the character then moves away from the door, the buttons vanish once more. The buttons emerge in different places each time, but the order of the buttons as they move around the seal always stays the same.
-![[Tower Door.png]]
+![Tower Door](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Tower%20Door.png)
 Each of the eight buttons depicts a different arcane rune. A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving counterclockwise around the seal, is always: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 
 A player who compares the platinum signet ring to the symbols notices that the evocation and necromancy runes exactly match the appearance of their corresponding symbols on the door. To unlock the door, the players must press the buttons in the order given by the pattern of crossed lines on the signet ring, beginning with either the evocation or necromancy symbol and moving along the lines in the proper sequence. 
@@ -656,7 +656,7 @@ A successful DC 15 Intelligence (Investigation) check or a ten-minute search of 
 
 * A colorful beaded bracelet with several wooden charms sized for a child, wrapped around a silvered dagger and a Tarokka card (the **Hooded One**). (A player who makes a successful DC 13 Intelligence (History or Arcana) check recalls that the Hooded One represents mysteries, newcomers, and hidden identities.)
 * Two burned pieces of parchment amidst a pile of charred ashes in the stove, including a burned page from Van Richten's journal and a singed sketch of a sign proclaiming *Rictavio’s Carnival of Wonders.* (The sketch appears to have been made far more recently than the journal entry.)
-![[Carnival Poster.png]]
+![Carnival Poster](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Carnival%20Poster.png)
 <span class="credit">"Rictavio's Carnival Poster" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 As the players search the room, any character who looks out one of the windows toward Lake Baratok notices something odd: a patch of lily pads approximately fifteen feet from the shore stained a bright, flamboyant yellow, at clear odds with the muted greens of the lily pads nearby. 
@@ -803,7 +803,7 @@ If the players wait for Rictavio to return before confronting him, [[Non-Player 
 
 Once he and the players are alone in his guest suite, Rictavio draws his sword-cane and demands proof that the players are not servants of Strahd von Zarovich. If the players muster sufficient evidence or succeed on a DC 15 Charisma (Persuasion) check, Rictavio reluctantly stows his blade, checks the window and corridor for Strahd’s spies, and shuts the window shutters tight. He then removes his *hat of disguise*, and confesses his identity as Dr. Rudolph van Richten. 
 
-![[RVR_Transparent.png]]
+![Rictavio's Carnival Troupe](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/RVR_Transparent.png)
 
 <span class="credit">"Dr. Rudolph van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -898,7 +898,7 @@ If the players muster sufficient evidence of their good faith or succeed on a DC
 
 Once the players or Arabelle have convinced him to do so, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] produces a key from his sleeve and opens the door. When he does, the players can see that the wagon contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet.
 
-![[Arabelle.png]]
+![Arabelle](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Arabelle.png)
 <span class="credit">"Arabelle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Meeting Arabelle
@@ -938,7 +938,7 @@ If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, 
 >
 > The talisman regains 1d4 expended charges daily at dawn. If you expend the talisman's last charge, roll a d20. On a 1, the talisman crumbles into ashes and is destroyed.
 
-![[SpeakWithDead.png]]
+![Speak with Dead](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/SpeakWithDead.png)
 
 <span class="credit">"Talisman of Echoes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
