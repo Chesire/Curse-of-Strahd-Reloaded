@@ -41,13 +41,17 @@ Curse-of-Strahd-Reloaded/
 ├── Act II - The Shadowed Town/
 ├── Act III - The Broken Land/
 ├── Act IV - Secrets of the Ancient/
+├── NPCs/ (Individual NPC profile files, organized by location/faction)
+│   ├── Death House/ (Death House NPCs)
+│   ├── Barovia/ (Barovia village NPCs)
+│   ├── Companions/ (Potential party companions)
+│   └── Antagonists/ (Major antagonists like Rahadin)
 ├── Appendices/
 │   ├── Bestiary.md (Monster stat blocks with PF2E notes)
-│   ├── Non-Player Characters.md (NPC profiles and motivations)
+│   ├── Non-Player Characters.md (NPC index and overview)
 │   ├── Glossary.md (Terminology and lore)
 │   └── Amber Shards.md (Campaign-specific elements)
-├── _other/templates/ (Templates for Lavaflow conversion)
-├── images/ (Visual assets)
+├── images/ (Visual assets - minimal count, primarily maps and key visuals)
 └── publish.css (Styling for web output)
 ```
 
@@ -66,7 +70,8 @@ Curse-of-Strahd-Reloaded/
 
 #### Reference Materials
 - **Bestiary**: Monster stat blocks with PF2E damage/action economy notes
-- **NPCs**: Character profiles, motivations, interaction cues
+- **NPCs**: Individual character profile files organized by location/faction (Death House, Barovia, Companions, Antagonists)
+- **Non-Player Characters Index**: Central NPC overview and relationships
 - **Glossary**: Terminology and lore reference
 - **Amber Shards**: Special magical items and campaign mechanics
 
@@ -118,6 +123,15 @@ When building NPC files, scene descriptions, or reference materials:
 - Search the repository thoroughly before creating new sections
 - If information doesn't exist in the repository, ask the user before adding it
 - Exception: YAML frontmatter, structural formatting, and cross-references are acceptable without approval
+
+### NPC Profile Files (Recent Development)
+Individual NPC files are now being created in the `NPCs/` directory, organized by location/faction:
+- **File Naming**: Use full NPC name without title (e.g., `Thornboldt Durst.md` not `Thornboldt the Blacksmith.md`)
+- **Location**: Place files in appropriate subdirectory based on primary location/faction (e.g., Death House, Barovia, Companions, Antagonists)
+- **New Locations**: Create new subdirectories as needed for different regions (e.g., Castle Ravenloft, Vallaki, Old Bonegrinder, Krezk)
+- **Content**: Each file contains motivations, relationships, stat blocks, and interaction cues
+- **Linking**: Use wiki-links to connect related NPCs and create relationship networks
+- **Title Removal**: Avoid repeating titles in file content; let structure convey roles
 
 ### Strategic Internal Linking
 When creating or editing NPC files and other character-focused documents, use wiki-links strategically to improve discoverability and cross-referencing:
@@ -173,9 +187,10 @@ When creating or editing NPC files and other character-focused documents, use wi
 - Lore reference for improvisation
 
 ## File Statistics & Content Scope
-- **Markdown Files**: 40+ files
-- **Estimated Word Count**: Multiple thousand words organized by campaign act
-- **Visual Assets**: 137 image files in images/ directory
+- **Markdown Files**: 50+ files (campaign acts + individual NPC profiles)
+- **Estimated Word Count**: Multiple thousand words organized by campaign act and character profiles
+- **NPC Profile Files**: Organized in NPCs/ directory with subdirectories for Death House, Barovia, Companions, and Antagonists
+- **Visual Assets**: Minimal images in images/ directory (focused on essential maps and key visuals)
 - **Deployment Target**: Foundry VTT (via Lavaflow import system)
 
 ## Target Audience & Use Cases
