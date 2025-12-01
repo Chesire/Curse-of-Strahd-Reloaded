@@ -96,7 +96,7 @@ This scene largely unfolds as described in <span class="citation">Approaching th
 <p>The tall shapes of village dwellings stand above, looming out of the dense fog that clings to the earth. Figures bearing crossbows patrol the old rooftops above, while a half-dozen haunted-looking villagers make repairs to a thirty-foot-long barricade blocking the main street. A tall, broad-shouldered man with shoulder-length blond hair and a chiseled jaw leads the work, wearing an old longsword buckled to his hip and a set of splint armor over a collared coat. A raven with blue-tipped wings perches atop one of the rooftops nearby, watching the proceedings below with obvious interest.</p>
 </div>
 
-![[Ismark.png]]
+![Ismark](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Ismark.png)
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **scouts** bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **commoners** make repairs to the barricade.
 
@@ -150,7 +150,7 @@ As the players and Ismark pass through the village streets, read:
 Add the description of the exterior of the Blood of the Vine Tavern, given in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>.
 
 The tents host the village’s elderly, sick, and children, who have been gathered here as a fortification of last resort. The statue bears a weather-worn plaque at its base, which reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C." (“B.C." stands for “Barovian Calendar.") 
-![[Ismark the Great.png]]
+![Ismark the Great](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Ismark%20the%20Great.png)
 <span class="credit">"Ismark the Great" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 If the players ask about the statue, Ismark can share the following information:
  
@@ -178,7 +178,7 @@ Shortly after Ismark begins answering the players' questions, read:
 <p>Something slams against a nearby table—and the sound draws your attention to a man sitting not far away, his clenched fist twitching against his table's wooden surface. He is squat, with greasy receding salt-and-pepper hair and a patched, well-worn coat. A scowl mars his face as he turns his dark eyes toward your group. "It's a fool's errand to put your faith in Ismark the <em>Lesser</em>," he rasps, eyes lingering upon each of you. "Best to seek better company, lest you wind up in the ground with the last fools that trusted him."</p>
 </div>
 
-![[Bildrath_transparent.png]]
+![Bildrath](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Bildrath_transparent.png)
 <span class="credit">"Bildrath" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The man is Bildrath Cantemir, the owner of <span class="citation">Bildrath's Mercantile (p. 43)</span>. If any of the players appear interested in speaking with him further, he invites them to sit at his table instead to "hear the real story of this bloody land." "The wine's shit," he grunts, shoving a pitcher of wine across the table, "but so's everything else."
@@ -411,7 +411,7 @@ During the players’ conversation with Bildrath, Parriwimple enters the room ca
 
 If Bildrath orders Parriwimple to remove the players from the store, Parriwimple attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
 
-![[Bildrath_And_Parriwimple_transparent.png]]
+![Bildrath and Parriwimple](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Bildrath_And_Parriwimple_transparent.png)
 <span class="credit">"Bildrath and Parriwimple" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ## B5f. The Eastern Barricade
@@ -453,7 +453,7 @@ If any of the players treated him kindly at the Blood of the Vine Tavern or Bild
 >
 > Wooden platforms scattered across the western side of the barricade allow defenders to peer over the edge and attack approaching enemies. While behind the barricade, defenders have full cover, or three-quarters cover while standing on a platform.
 
-![[Eastern-Barricades.jpg]]
+![Eastern Barricades](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Eastern-Barricades.jpg)
 <span class="credit">"The Eastern Barricade" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/ef507db2df">here!</a></span>
 ### The Siege
 Dusk falls soon after the players complete their preparations. Read:
@@ -536,7 +536,7 @@ If the players follow her, Muriel guides them west toward the town square, then 
 <p>The torches to the west have been extinguished, the town’s western defenders fled—or killed. Only one figure remains standing: Ismark, his clothes torn and bloody, bearing a longsword in his left hand and a shortsword in his right. Twenty feet away from him stands a pale-skinned zombie, its flesh a smooth, sickly white that bulges with crimson veins. Its eyes stare dully toward the tents in the town square beyond, and, as a cloud of reddish mist spills gently from its gaping mouth, it takes a shambling step forward.</p>
 </div>
 
-![[Town-Square_4k_NoGrid_30x20_136PPI_Gloom_Fog.jpg]]
+![Town Square](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Town-Square_4k_NoGrid_30x20_136PPI_Gloom_Fog.jpg)
 
 <span class="credit">"Village of Barovia Town Square" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/05afd01fa8/">here!</a></span>
 
@@ -900,7 +900,7 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 </div>
 <br>
 
-![[Doru.jpg]]
+![Doru](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Doru.jpg)
 <span class="credit">"Doru" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 

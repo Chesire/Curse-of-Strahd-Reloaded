@@ -235,7 +235,7 @@ The raven’s arrival is followed soon after by a terrible, grating shriek and t
 
 The **greater strix** uses the statistics of a **manticore**, but is a Medium construct and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
 
-![[Greater Strix.png]]
+![Greater Strix](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Greater%20Strix.png)
 <span class="credit">"Greater Strix" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**, but with vulnerability to fire damage). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
@@ -734,7 +734,7 @@ If the players pause, proceed, or attack, the six wolves in the woods strike. Re
 <p>Six snarling shadows launch from the underbrush, fangs bared and claws outstretched!</p>
 </div>
 
-![[wolf_ravine.jpg]]
+![Wolf Ravine](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/wolf_ravine.jpg)
 
 > [!combat]- **Balancing the Wolves** 
 > This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
@@ -766,7 +766,7 @@ As the players depart this area, a player with a passive Wisdom (Perception) sco
 
 This area is largely as described in <span class="citation">Tser Falls (p. 37)</span>. Additionally, when the players arrive, they can see a <span class="citation">revenant (p. 31)</span> standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground. 
 
-![[Bridge Revenant.png]]
+![Bridge Revenant](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Bridge%20Revenant.png)
 <span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **Vladimir’s Fury**
@@ -845,7 +845,7 @@ As the windmill comes into view, the players also notice **Morgantha** approachi
 
 This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
 
-![[Morgantha_Disguised.png]]
+![Morgantha Disguised](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Morgantha_Disguised.png)
 <span class="credit">"Morgantha Disguised" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Morgantha, Dream Peddler**
@@ -1086,7 +1086,7 @@ When the players first arrive, the inn contains the following notable NPCs:
 * Brom and Bray Martikov, who are playing with toys in **N20. Boys' Bedroom**; and
 * Rictavio, who is telling stories to the patrons in **N2c. Taproom**, including Nikolai and Karl Wachter.
 
-![[Vallaki_Martikovs.png]]
+![Vallaki Martikovs](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Vallaki_Martikovs.png)
 
 <span class="credit">"The Martikovs of the Blue Water Inn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -1133,7 +1133,7 @@ The taproom is as described in <span class="citation">N2c. Taproom (p. 100)</spa
 </div>
 
 The man is the ringmaster Rictavio, who is largely as described in <span class="citation">Rictavio (p. 238)</span> and <span class="citation">N2c. Taproom (p. 100)</span>. Two of the five listeners at his table are Nikolai and Karl Wachter, who are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
-![[Rictavio.png]]
+![Rictavio](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Rictavio.png)
 <span class="credit">"Rictavio" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
@@ -1321,7 +1321,7 @@ As the players depart the Blue Water Inn on their first morning in Vallaki, they
 * The Baron insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 
 * Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her. 
 * As the old woman is hauled away, the Baron turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
-![[Izek Strazni.png]]
+![Izek Strazni](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Izek%20Strazni.png)
 <span class="credit">"Izek Strazni" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Baron Vargas Vallakovich**
