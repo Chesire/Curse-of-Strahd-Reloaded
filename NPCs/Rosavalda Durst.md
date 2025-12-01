@@ -17,12 +17,12 @@ status: "Ally"
 > - **Origin:** Death House
 > - **Status:** Companion/Ally
 > - **Age:** Young (appears ~10-12 years old)
-> - **Relationships:** Sister of [[Thornboldt Durst|Thorn]], half-sibling of [[Walter Durst]], daughter of Elisabeth and Gustav Durst
+> - **Relationships:** Sister of [[Thornboldt Durst|Thorn]], half-sibling of [[Walter Durst]], daughter of [[Elisabeth Durst]] and [[Gustav Durst]]
 > - **Key Skill:** Spellcaster (cantrips: *mending*, *light*, *shocking grasp*)
 
 ## Appearance
 
-Rose appears as a young girl of around ten to twelve years old. She can be seen depicted in the Durst family portrait that hangs above the fireplace in Death House's main hall. As a ghostly spirit, she retains her youthful appearance and is often found clinging protectively to her younger brother Thorn.
+Rose appears as a young girl of around ten to twelve years old. She can be seen depicted in the Durst family portrait that hangs above the fireplace in Death House's main hall. As a ghostly spirit, she retains her youthful appearance and is often found clinging protectively to her younger brother [[Thornboldt Durst|Thorn]].
 
 ## Roleplaying Information
 
@@ -30,7 +30,7 @@ Rose appears as a young girl of around ten to twelve years old. She can be seen 
 
 Rose should inspire:
 - **Sympathy** for her insecurities and fears
-- **Endearment** for her dedication to Thorn
+- **Endearment** for her dedication to [[Thornboldt Durst|Thorn]]
 - **Gratitude** for her earnest efforts to aid the players
 
 ### Emotions
@@ -66,15 +66,15 @@ In a fight, Rose would **plead for peace**, but **flee with Thorn if that proved
 ### Relationships
 
 - **Thornboldt "Thorn" Durst:** Her younger brother. Rose's entire world revolves around keeping him safe and comforted.
-- **Walter Durst:** Her half-sibling. Their relationship is complicated.
-- **Elisabeth and Gustav Durst:** Her parents. Rose remembers them with a mix of love and the trauma of Death House.
-- **Klara:** Her nursemaid (known to Rose as "Miss Klara"). Rose has memories of the nursemaid recorded in her diary.
+- **[[Walter Durst]]:** Her half-sibling. Their relationship is complicated.
+- **[[Elisabeth Durst]] and [[Gustav Durst]]:** Her parents. Rose remembers them with a mix of love and the trauma of Death House.
+- **[[Klara]]:** Her nursemaid (known to Rose as "Miss Klara"). Rose has memories of the nursemaid recorded in her diary.
 
 ## Background & History
 
 ### Life Before Death House
 
-In life, Rose was a budding wizard who discovered a small spellbook in her father's library. She took great care in copying the cantrips *mending*, *light*, and *shocking grasp* into her diary. Her aged and faded diary also contains entries regarding her studies, her friends, her younger brother, and arguments between her mother and father. Rose doesn't know the true nature of those fights.
+In life, Rose was a budding wizard who discovered a small spellbook in her father's library. She took great care in copying the cantrips *mending*, *light*, and *shocking grasp* into her diary. Her aged and faded diary also contains entries regarding her studies, her friends, her younger brother [[Thornboldt Durst|Thorn]], and arguments between her mother and father. Rose doesn't know the true nature of those fights.
 
 ### Current Status
 

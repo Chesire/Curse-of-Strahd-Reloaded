@@ -119,6 +119,15 @@ When building NPC files, scene descriptions, or reference materials:
 - If information doesn't exist in the repository, ask the user before adding it
 - Exception: YAML frontmatter, structural formatting, and cross-references are acceptable without approval
 
+### Strategic Internal Linking
+When creating or editing NPC files and other character-focused documents, use wiki-links strategically to improve discoverability and cross-referencing:
+- Link **first mentions** of related characters in sections/contexts
+- Link **important relationships** (e.g., family connections, key relationships)
+- Link characters when mentioned in **connections/relationships sections**
+- Avoid over-linking routine mentions where context is already clear
+- Use display text for clarity: `[[Thornboldt Durst|Thorn]]` instead of `[[Thorn]]`
+- This approach improves Foundry journal navigation when imported via Lavaflow
+
 ## Working on This Project: Quick Reference
 
 ### When Creating New Content
