@@ -6,9 +6,6 @@ tags: ["npc", "death-house", "antagonist", "ghost", "spirit"]
 location: "Death House"
 status: "Deceased; Spirit"
 ---
-
-# Elisabeth Durst
-
 > [!info]+ **Quick Reference**
 > - **Origin:** Death House, Barovia
 > - **Status:** Deceased; Ghost/Spirit

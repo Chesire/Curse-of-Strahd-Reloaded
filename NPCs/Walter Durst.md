@@ -6,9 +6,6 @@ tags: ["npc", "death-house", "infant", "undead", "flesh-mound"]
 location: "Death House"
 status: "Deceased; Bound Spirit"
 ---
-
-# Walter Durst
-
 > [!info]+ **Quick Reference**
 > - **Origin:** Death House, Barovia
 > - **Status:** Deceased; Spirit bound to the Flesh Mound

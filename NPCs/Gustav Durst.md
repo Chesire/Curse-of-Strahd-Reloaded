@@ -6,9 +6,6 @@ tags: ["npc", "death-house", "antagonist", "ghost", "spirit"]
 location: "Death House"
 status: "Deceased; Spirit"
 ---
-
-# Gustav Durst
-
 > [!info]+ **Quick Reference**
 > - **Origin:** Death House, Barovia
 > - **Status:** Deceased; Ghost/Spirit

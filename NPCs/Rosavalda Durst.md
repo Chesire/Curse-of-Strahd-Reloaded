@@ -7,9 +7,6 @@ actor: "rosavalda-durst"
 location: "Death House"
 status: "Ally"
 ---
-
-# Rosavalda "Rose" Durst
-
 **[📊 View Character Sheet](Actor.rosavalda-durst)**
 
 > [!info]+ **Quick Reference**
@@ -79,8 +76,6 @@ In life, Rose was a budding wizard who discovered a small spellbook in her fathe
 ### Current Status
 
 Rose exists as a ghostly spirit within Death House. She and her brother are trapped but not malevolent—they remain protective of each other and cautious of the house's darker forces.
-
-## DM Notes
 
 ## Connected NPCs & Locations
 

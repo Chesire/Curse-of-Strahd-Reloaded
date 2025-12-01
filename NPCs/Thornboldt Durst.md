@@ -7,9 +7,6 @@ actor: "thornboldt-durst"
 location: "Death House"
 status: "Ally"
 ---
-
-# Thornboldt "Thorn" Durst
-
 **[📊 View Character Sheet](Actor.thornboldt-durst)**
 
 > [!info]+ **Quick Reference**
@@ -84,5 +81,4 @@ Thorn exists as a ghostly spirit within Death House, trapped alongside his siste
 - [[Walter Durst]] — His half-sibling
 - [[Arc A - Escape From Death House]] — His introduction scene and story arc
 
-## DM Notes
 

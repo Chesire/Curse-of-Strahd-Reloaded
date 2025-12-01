@@ -6,9 +6,6 @@ tags: ["npc", "death-house", "nursemaid", "ghost", "spirit"]
 location: "Death House"
 status: "Deceased; Spirit"
 ---
-
-# Klara
-
 > [!info]+ **Quick Reference**
 > - **Alias:** Miss Klara (to the Durst children)
 > - **Origin:** Death House, Barovia
