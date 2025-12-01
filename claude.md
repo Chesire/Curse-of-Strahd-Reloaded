@@ -108,6 +108,17 @@ When creating or editing content, keep these Lavaflow conversion principles in m
 5. **Conditions**: PF2E has specific conditions (Frightened, Sickened, etc.); map D&D effects appropriately
 6. **Checks & DCs**: PF2E uses d20 + modifier vs. DC; convert 5E AC and saves to PF2E DCs
 
+## Content Guidelines
+
+### Repository Content Only
+**CRITICAL:** Do not add information, guidance, or content that does not already exist in this repository unless explicitly approved by the user. All NPC profiles, scene guidance, mechanical notes, and supplementary content must be sourced from existing files within this project.
+
+When building NPC files, scene descriptions, or reference materials:
+- Extract content directly from existing markdown files
+- Search the repository thoroughly before creating new sections
+- If information doesn't exist in the repository, ask the user before adding it
+- Exception: YAML frontmatter, structural formatting, and cross-references are acceptable without approval
+
 ## Working on This Project: Quick Reference
 
 ### When Creating New Content
@@ -116,6 +127,7 @@ When creating or editing content, keep these Lavaflow conversion principles in m
 3. Reference PF2E mechanics when discussing encounters or abilities
 4. Note original 5E source material for reference
 5. Ensure YAML frontmatter includes relevant metadata
+6. **Only use information that already exists in the repository**
 
 ### When Editing Existing Content
 1. Maintain chronological narrative structure
