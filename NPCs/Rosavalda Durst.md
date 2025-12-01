@@ -87,7 +87,3 @@ Rose exists as a ghostly spirit within Death House. She and her brother are trap
 - [[Thornboldt Durst]] — Her younger brother, the center of her world
 - [[Walter Durst]] — Her half-sibling
 - [[Arc A - Escape From Death House]] — Her introduction scene and story arc
-
-## Mentioned In
-
-> [!note]- **Backlinks**

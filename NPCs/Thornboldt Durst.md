@@ -86,6 +86,3 @@ Thorn exists as a ghostly spirit within Death House, trapped alongside his siste
 
 ## DM Notes
 
-## Mentioned In
-
-> [!note]- **Backlinks**
