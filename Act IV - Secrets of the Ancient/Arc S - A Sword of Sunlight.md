@@ -80,7 +80,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 >
 > *With a single, jerking motion, it throws its head forward toward Strahd and **shrieks** in warning and defiance. A thunderous wave of sound sweeps out across the mountain, the raven’s sonorous, booming cry ringing in your ears.*
 > 
-> ![[The_Roc_of_Mt._Ghakis_night_hires.jpg]]
+> ![The Roc of Mt. Ghakis](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/The_Roc_of_Mt._Ghakis_night_hires.jpg)
 > <span class="credit">"The Roc of Mount Ghakis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > 
 > ---
@@ -162,7 +162,7 @@ This area is largely as described in <span class="citation">X1a. Narrow Fissure 
 
 If the players make their presence known, Diona demands that they identify themselves and their purpose in visiting the Amber Temple. If reassured that the players are neither monsters nor power-seeking pilgrims, Diona warily invites them to enter—though more warmly if they claim to know her family. (Diona and Coryllus must remain within the temple to complete Diona's rite of passage, and won’t leave the temple willingly.)
 
-![[Diona_transparent.png]]
+![Diona](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Diona_transparent.png)
 <span class="credit">"Diona" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **The Missing Mountain Folk**
@@ -225,7 +225,7 @@ Provide the players a moment to respond. If none do, or if any call out to the s
 <p>"Good day," he says cheerily. “Might I ask why you are trespassing upon my property?"</p>
 </div>
 
-![[Heinrich_Stolt_transparent.png]]
+![Heinrich Stolt](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Heinrich_Stolt_transparent.png)
 <span class="credit">"Heinrich Stolt" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!abstract]+ **Neferon's Disguise**
@@ -251,7 +251,7 @@ If an opportune moment arises, “Heinrich" asks the players why they have come 
 > 
 > If the players attack "Heinrich" or disregard his warnings, "Heinrich" uses his fly speed to rise into the air, warns them that they "have made a terrible mistake," and retreats into <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, using his ***teleport*** action to teleport into <span class="citation">X5a. God of Secrets (p. 184)</span> as soon as it comes within range. Neferon and the flameskulls in <span class="citation">X17. Upper West Hall (p. 187)</span> then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>.
 
-![[Neferon_transparent.png]]
+![Neferon](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Neferon_transparent.png)
 <span class="credit">"Neferon" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!info]+ **Neferon’s Tactics**
@@ -328,7 +328,7 @@ If the players refuse to carry out “Heinrich’s" task, he responds as describ
 >
 > (Neferon doesn't know of the true identities or intent of the **specters**, which sense his fiendish nature and refuse to interact with him. Although Neferon attempted to investigate Vilnius's presence, Vilnius shrieked in rage and terror at his presence and vanished into the shadows. Neferon has been unable to encounter Vilnius again, though he has sensed Vilnius's presence each time he has entered the lecture hall thereafter.)
 
-![[Heinrichs_Map.png]]
+![Heinrich's Map](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Heinrichs_Map.png)
 <span class="credit">"Heinrich's Map by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **Neferon’s Phylactery**
@@ -438,7 +438,7 @@ This area is largely as described in <span class="citation">X17. Upper West Hall
 >
 > If one flameskull attacks the players, the others don’t interfere. (If asked why, the flameskulls freely share that they can’t be permanently killed, and will resurrect shortly after their “deaths.") However, the flameskulls attack any player that attempts to permanently kill a flameskull using the means described in their ***undead restoration*** feature.
 
-![[Flameskulls.png]]
+![Flameskulls](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Flameskulls.png)
 <span class="credit">"Flameskulls" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The flameskulls won’t attack the players if “Heinrich" previously granted them permission to explore the temple. Otherwise, the flameskulls warn the players not to proceed on pain of death, with Petra chirping that she would “hate to see a potential pet’s face charred and ruined." (Petra is, however, glad to invite any trespassers to remain indefinitely as her “pet"—so long as they promise not to leave her hall.)
@@ -618,12 +618,12 @@ In addition, replace the *tome of understanding* with a set of *eyes of minute s
 
 The first scroll contains a precise sketch of three amber sarcophagus, whose fronts are engraved with the following designs from left to right: (1) a gnarled tree encircled by a canal; (2) a tome upon a pedestal; and (3) an eye upon a hill. An arrow points to a circle around the leftmost sarcophagus (the one depicting the tree) from several lines of complex runes and arcane formulae. (A player who succeeds on a DC 18 Intelligence (Arcana) check identifies the runes and formulae as notes regarding some kind of conjuration magic—specifically, magic similar to the *demiplane* spell.) A scrawled note beneath the formulae reads: “Integrity parameter + duplication runes + inversion function = hidden physical demiplane within psychic manifestation. But who altered it, and why?"
 
-![[Khazan notes 1.png]]
+![Khazan Notes 1](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Khazan%20notes%201.png)
 <span class="credit">"Khazan's Notes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The second scroll contains a similar sketch of Castle Ravenloft's <span class="citation">K60. North Tower Peak (p. 74)</span>, including <span class="citation">K20. Heart of Sorrow (p. 59)</span> below. A scrawled note at the bottom reads: “Composition: crystallized blood. Means of suspension: Unknown (nonmagical). Notes: Highly conductive to arcane energies, with potentially exceptional storage capacities. Arcane signature resonates with the mists around the valley. Why?" (The last word is underlined three times.)
 
-![[Khazan notes 2.png]]
+![Khazan Notes 2](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Khazan%20notes%202.png)
 <span class="credit">"Khazan's Notes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **Khazan’s Notes**

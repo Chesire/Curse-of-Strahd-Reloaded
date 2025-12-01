@@ -1367,9 +1367,9 @@ If the players enter the cave, read:
 <p>The cave entrance leads to a small, rocky chamber no more than twenty feet across. A narrow natural corridor splits from the chamber’s right side, bending further into the depths of the mountain before winding out of sight.</p>
 </div>
 
-![[Bodak_Lair_4k_NoGrid_60x40_68PPI_Gloom.png]]
+![Bodak Lair](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Bodak_Lair_4k_NoGrid_60x40_68PPI_Gloom.png)
 
-![[Bodak_Lair_Labeled.jpg]]
+![Bodak Lair Labeled](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Bodak_Lair_Labeled.jpg)
 <span class="credit">"Bodak Lair" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/public-version-120933240">here!</a></span>
 
 > [!lore]+ **The Bodaks**
@@ -1434,7 +1434,7 @@ If a player follows the corridor, read:
 
 The western path leads to [[#The Trash Heap]], the eastern path leads to [[#The Amber Shrine]], and the southern path leads to [[#The Room of Regret]]. Each tunnel curves out of sight, obscuring whatever lies beyond.
 
-![[The Bodak Cave.png]]
+![The Bodak Cave](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/The%20Bodak%20Cave.png)
 
 If the bodaks are active when the players enter this area, a player with a passive Wisdom (Perception) score of 16 or greater notices a silhouette briefly flicker across the wall of the eastern tunnel (leading to [[#The Amber Shrine]]). (The silhouette belongs to Deirdre, who has vacated [[#The Eastern Nest]] to investigate the newcomers. If the players approach the eastern tunnel, Deirdre exits [[#The Amber Shrine]] and returns to [[#The Eastern Nest]].)
 
@@ -1587,7 +1587,7 @@ If a player enters this chamber, read:
 <p>An enormous, lone icicle hangs from the center of the ceiling, easily three feet tall and ten inches wide at the base. A deep, pulsating red light flickers from something frozen inside of it.</p>
 </div>
 
-![[Frozen-Vault.png]]
+![Frozen Vault](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Frozen-Vault.png)
 <span class="credit">"The Frozen Vault" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
 
 The icicle, which ends seven feet above the ground and falls easily if melted or broken, contains a frozen *ironblood pendant* (see below), whose iron chain dangles from a natural stone hook on the ceiling. The pendant falls if the icicle falls, or becomes exposed if the icicle is melted. 
@@ -1645,7 +1645,7 @@ The gap in [[#R4k. The Ice Caves]] bends around the western wall of the entry ca
 <p>The tunnel continues long into the distance ahead, soon vanishing into darkness.</p>
 </div>
 
-![[The-Cave-of-Daggers.png]]
+![The Cave of Daggers](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/The-Cave-of-Daggers.png)
 
 <span class="credit">"The Cave of Daggers" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
 
@@ -1756,7 +1756,7 @@ If a player has a passive Wisdom (Perception) score of 15 or greater, add:
 
 The shadows are thirteen **forsaken soldiers** (see below), and are placed as depicted in the map below, with orange representing solid earth, blue representing slippery ice, white representing thin ice, and green stars representing **forsaken soldiers** beneath the ice:
 
-![[The Frozen Lake.png]]
+![The Frozen Lake](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/The%20Frozen%20Lake.png)
 
 > [!info]+ **Slippery Ice**
 > A creature that crawls across doesn't need to make a saving throw to avoid falling prone. 
@@ -1842,7 +1842,7 @@ A player who investigates the rectangular foundation of the main hall finds a cr
 
 Investigation of the row of stonework reveals a few post holes where the stable’s main supports once stood. Nothing further remains of the storage shed.
 
-![[The-Twin-Falls_4k_NoGrid_40x50_82PPI_Frozen_Snow.jpg]]
+![The Twin Falls](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/The-Twin-Falls_4k_NoGrid_40x50_82PPI_Frozen_Snow.jpg)
 <span class="credit">"Twin Falls" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/901b225d88">here!</a></span>
 ### The Shrine
 When a player approaches the shrine, read:
@@ -2021,7 +2021,7 @@ At any suitable point when Scorilo has just threatened, questioned, or otherwise
 <p>A tall, muscled woman strides down the tunnel, her fur-lined cloak clasped with a brooch of polished bronze set with flashing amethyst. Her dark, silver-streaked hair hangs down in a long, tightly-coiled braid, the hilt of a heavy greatsword visible beyond her thick, corded shoulders. She moves with the grace of a seasoned predator, her steely eyes sharp, but unyielding. Two fur-clad warriors bearing greataxes flank her on either side, their steps echoing in time with hers.</p>
 </div>
 
-![[Chief_Diegia_transparent.png]]
+![Chief Diegia](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Chief_Diegia_transparent.png)
 <span class="credit">"Chief Diegia" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Pause for a moment to allow the players to interject. If none do, or Chief Diegia is allowed to approach, continue:
@@ -2131,7 +2131,7 @@ As the players' encounter with Kaldur draws to a close, Chief Diegia's husband, 
 <p>"Is that Diona?" he asks, ducking through the threshold. His gaze falls on you, and the hopeful grin on his face fades to a quieter, more subdued smile. "Ah. I see we have guests."</p>
 </div>
 
-![[Oroles_Transparent.png]]
+![Oroles](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Oroles_Transparent.png)
 <span class="credit">"Oroles" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Diegia is glad to introduce the players to her husband, Oroles (use the statistics of a **gladiator**), whose features are visibly similar to Como and Scorilo's. A player who succeeds on a DC 12 Wisdom (Insight) check discerns that Oroles, though doing his best to appear friendly, seems to be disappointed by the players' identities.
@@ -2307,7 +2307,7 @@ As the players climb the steps, continue:
 
 The face belongs to Elder Burebis, a **storm giant**. Players who inspect Elder Burebis’s form more closely observe that the roots extruding from the wall have, in many places, bound and pierced his flesh, preventing him from moving.
 
-![[Burebis_hi-res.jpg]]
+![Burebis](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Burebis_hi-res.jpg)
 <span class="credit">"Elder Burebis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **Elder Burebis**
