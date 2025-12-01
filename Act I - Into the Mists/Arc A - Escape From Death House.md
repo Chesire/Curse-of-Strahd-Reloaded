@@ -116,7 +116,7 @@ The main hall is largely as described in <span class="citation">Main Hall (p. 21
 
 Instead of a longsword, the portrait of the Durst family from <span class="citation">Upper Hall (p. 213)</span> now hangs above the fireplace. In the portrait, Thorn is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
-![[The Durst Family.png]]
+![The Durst Family](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/The%20Durst%20Family.png)
 <span class="credit">"The Durst Family" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Shortly after all of the characters enter the main hall, the front door slams shut, extinguishing all lights in the house. The sound of the rain outside completely vanishes, leaving the house eerily silent. 
@@ -191,7 +191,7 @@ for a celebration of the one-year anniversary of the Durst Mill.
 <em>Dinner and refreshments to be served.</em>
 </div>
 
-![[Durst Invitation.jpg]]
+![Durst Invitation](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Durst%20Invitation.jpg)
 <span class="credit">"Durst Invitation" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Den of Wolves
@@ -522,7 +522,7 @@ The music box contains a rusted, bloodstained skinning knife as well as the key 
 
 The music box also contains two curled-up pieces of parchment. The first parchment shows a basic floor plan split into three rectangles labeled QUARTERS, SHRINE, and ALTAR. QUARTERS and SHRINE are connected at the top by a single line, and at the bottom by a double line, which connects both to ALTAR. The second parchment contains a list of unfamiliar names beneath the word RECRUITMENT.
 
-![[Death House Dungeon Map.png]]
+![Death House Dungeon Map](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Death%20House%20Dungeon%20Map.png)
 <span class="credit">"Death House Dungeon Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 As the players exit the room, the rocking chair begins to rock softly and the music box opens and begins to play. The sound of motherly humming floats through the air for two measures, but grows off-key and distorted before coming to a violent, screeching halt. The rocking chair then stops rocking.
@@ -531,7 +531,7 @@ As the players exit the room, the rocking chair begins to rock softly and the mu
 
 This room is largely as described in **Children’s Room** (p. 215-16).
 
-![[Rose and Thorn.png]]
+![Rose and Thorn](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Rose%20and%20Thorn.png)
 <span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Rosavalda "Rose" Durst**
@@ -783,7 +783,7 @@ This area is largely as described in <span class="citation">Ghoulish Encounter (
 
 When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack.
 
-![[Ghoulish Encounter Map.png]]
+![Ghoulish Encounter Map](https://raw.githubusercontent.com/DragnaCarta/Curse-of-Strahd-Reloaded/main/images/Ghoulish%20Encounter%20Map.png)
 > [!combat]- **Combat - Ghouls**
 > **Combat Level**: 3 consecutive Mild encounters
 > **Expected Character Level**: 2
